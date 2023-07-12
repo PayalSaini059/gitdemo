@@ -1,2 +1,7 @@
 Hello guys 
 wlecome to pw skills
+<<<<<<< Updated upstream
+I am Payal
+=======
+I am payal
+>>>>>>> Stashed changes
